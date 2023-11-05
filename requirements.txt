@@ -1,0 +1,12 @@
+pandas 
+numpy 
+seaborn 
+matplotlib 
+klib 
+dtale 
+scikit-learn 
+joblib 
+pandas-profiling 
+xgboost
+ipywidgets
+gunicorn
